@@ -1,5 +1,3 @@
-print("Hi naveen")
-print("Hi nandini")
-print("Hi triveni")
-print("hi kumar")
-print("hi mahesh")
+print("hello world")
+print("wonderfull")
+print("Awson")
