@@ -1,6 +1,0 @@
-print("good for health")
-print("hello world")
-print("india1")
-print("hellow")
-print("kingdom")
-print("hub")
